@@ -1,0 +1,9 @@
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DimensionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DimensionCalculator.DimensionCalculator.resources
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DimensionCalculator.csproj.GenerateResource.Cache
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Erik\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
